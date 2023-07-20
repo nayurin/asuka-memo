@@ -14,9 +14,24 @@
 - date: 2023/7/20
   msg: 鸟类空运有一种骑驴找马之感
   owner: 飞鸟闲
-  comment:
+  comments:
   - msg: 我觉得这个骑驴找马描述的不太准确，但是这种不太准确产生了一种奇怪的可爱
     owner: 牛仔流浪浪
+
+- date: 2023/7/19
+  msg: 我平等的说每一个nyfrp
+  owner: 飞鸟闲
+
+- date: 2023/7/19
+  msg: 现在怎么看尘世之乱怎么欠揍
+  owner: 飞鸟闲
+  comments:
+  - msg: 阶段性的
+    owner: 尘世之乱
+  - msg: 妹妹到青春期 叛逆了
+    owner: 尘世之乱
+  - msg: 以后会理解哥哥的
+    owner: 尘世之乱
 
 - date: 2023/7/18
   msg: 天呢小飞宝宝显得好可爱
@@ -24,6 +39,27 @@
   comments:
   - msg: 好恶心
     owner: 飞角闲
+
+- date: 2023/7/18
+  msg: 你们有的时候发散起来好吓人啊我靠
+  owner: 飞鸟闲
+  comments:
+  - msg: 哥们从来不发散
+    owner: 我知道他，这小子一看就不是好人
+
+- date: 2023/7/17
+  msg: 大家想引起鸟爹注意最好是各平台同头像
+  owner: 飞鸟闲
+  comments:
+  - msg: 唉，岳父的敌意
+    owner: 我知道他，这小子一看就不是好人
+
+- date: 2023/7/15
+  msg: 如果是尘世之乱我就喝药死了
+  owner: 飞鸟闲
+  comments:
+  - msg: 想喝什么口味的 我给你寄
+    owner: 尘世之乱
 
 - date: 2023/7/11
   msg: 我是清楚系
